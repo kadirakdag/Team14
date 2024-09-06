@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Materials/MaterialFunctions/MF_LandscapeLayerProcess.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Materials/Landscape/M_AutoLandscape.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Materials/Landscape/M_AutoLandscape_Inst.uasset",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",

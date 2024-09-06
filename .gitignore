@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ExtinctionRebel/Saved/Telemetry/Telemetry.json
+ExtinctionRebel/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt
+ExtinctionRebel/Saved/Logs/ExtinctionRebel.log

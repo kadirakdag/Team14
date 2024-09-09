@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/AI/BP_Worker.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/MI_Grass_Clumps_rbojr_2K.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/AB_Murdock.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/Murdock_Skeleton.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Animation/BS2_CrouchWalk.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/AnimStarterPack/UE5/UE5_Crouch_Idle_Rifle_Hip.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/AnimStarterPack/UE5/UE5_Crouch_to_Stand_Rifle_Hip.uasset",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
@@ -91,7 +101,6 @@
 				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Minimap_Mat.uasset",
 				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/arrow.uasset",
 				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Minimap/arrow_Sprite.uasset",
-				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
 				"C:/Users/kadir/GitHub/SIT254-Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset"
 			]
 		}

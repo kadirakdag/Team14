@@ -1372,3 +1372,131 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.09-22.02.53:234][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.09.09-22.02.53:234][732]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2024.09.09-22.02.53:234][732]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.09.09-22.10.25:729][299]LogDerivedDataCache: C:/Users/Debora/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.09.09-22.15.48:481][822]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.09-22.15.48:504][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.09-22.15.48:505][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.09-22.15.48:585][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080460s)
+[2024.09.09-22.15.48:585][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.080517s)
+[2024.09.09-22.15.48:621][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.09.09-22.15.48:622][822]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.09-22.15.48:624][822]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2024.09.09-22.15.48:702][822]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.09-22.15.48:702][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.09-22.15.48:702][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.09-22.15.48:702][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.09-22.15.48:702][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.09-22.15.48:702][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.09-22.15.48:704][822]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.09-22.15.48:754][822]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2024.09.09-22.15.48:754][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.09-22.15.48:754][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.09-22.15.48:754][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.09-22.15.48:755][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.09.09-22.15.48:755][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.09.09-22.15.48:756][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.09.09-22.15.48:756][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.09.09-22.15.48:756][822]LogInit: FAudioDevice initialized with ID 6.
+[2024.09.09-22.15.48:756][822]LogAudio: Display: Audio Device (ID: 6) registered with world 'Forest'.
+[2024.09.09-22.15.48:756][822]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.09.09-22.15.48:799][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.09-22.15.48:799][822]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.09-22.15.48:819][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-08.15.48
+[2024.09.09-22.15.48:821][822]LogWorld: Bringing up level for play took: 0.021144
+[2024.09.09-22.15.48:823][822]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.09.09-22.15.48:898][822]PIE: Server logged in
+[2024.09.09-22.15.48:902][822]PIE: Play in editor total start time 0.411 seconds.
+[2024.09.09-22.17.15:243][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.09-22.17.15:243][130]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.09-22.17.15:243][130]LogSlate: Window 'ExtinctionRebel Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.09.09-22.17.15:295][130]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.09-22.17.15:296][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-22.17.15:297][130]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.09-22.17.15:297][130]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.09-22.17.15:300][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.09-22.17.15:306][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-22.17.15:320][130]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.09.09-22.17.15:320][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.09.09-22.17.15:322][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.09.09-22.17.15:333][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.09.09-22.17.15:437][131]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.09.09-22.25.52:101][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.09.09-22.25.52:563][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.09-22.25.52:588][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.09-22.25.52:657][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.09-22.25.52:657][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.09-22.25.52:708][873]LogSavePackage: Moving output files for package: /Game/mINE/BP_characterThirdPersonEdited
+[2024.09.09-22.25.52:709][873]LogSavePackage: Moving '../../../../../../Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEditedFE12F97A469E87D29EDBA4BFE2FBACA9.tmp' to '../../../../../../Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset'
+[2024.09.09-22.25.52:725][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.165 ms (total: 837.820 ms)
+[2024.09.09-22.25.52:763][873]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.09-22.25.52:763][873]LogContentValidation: Enabled validators:
+[2024.09.09-22.25.52:763][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.09-22.25.52:763][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.09-22.25.52:763][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.09-22.25.52:763][873]LogContentValidation: Display: Validating asset /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.09-22.25.52:763][873]AssetCheck: /Game/mINE/BP_characterThirdPersonEdited Validating asset
+[2024.09.09-22.25.53:484][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.09-22.25.53:514][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.09-22.25.53:515][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.09-22.25.53:597][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082177s)
+[2024.09.09-22.25.53:597][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.082226s)
+[2024.09.09-22.25.53:613][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.09.09-22.25.53:618][954]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.09-22.25.53:620][954]LogPlayLevel: PIE: World Init took: (0.002358s)
+[2024.09.09-22.25.53:685][954]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.09-22.25.53:686][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.09-22.25.53:686][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.09-22.25.53:686][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.09-22.25.53:686][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.09-22.25.53:686][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.09-22.25.53:688][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.09-22.25.53:750][954]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2024.09.09-22.25.53:750][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.09-22.25.53:750][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.09-22.25.53:750][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.09-22.25.53:751][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.09.09-22.25.53:751][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.09.09-22.25.53:753][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.09.09-22.25.53:753][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.09.09-22.25.53:753][954]LogInit: FAudioDevice initialized with ID 7.
+[2024.09.09-22.25.53:753][954]LogAudio: Display: Audio Device (ID: 7) registered with world 'Forest'.
+[2024.09.09-22.25.53:753][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.09.09-22.25.53:805][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.09-22.25.53:806][954]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.09-22.25.53:825][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-08.25.53
+[2024.09.09-22.25.53:827][954]LogWorld: Bringing up level for play took: 0.020954
+[2024.09.09-22.25.53:830][954]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.09.09-22.25.53:925][954]PIE: Server logged in
+[2024.09.09-22.25.53:926][954]PIE: Play in editor total start time 0.434 seconds.
+[2024.09.09-22.26.57:699][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.09-22.26.57:699][ 88]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.09-22.26.57:700][ 88]LogSlate: Window 'ExtinctionRebel Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.09.09-22.26.57:742][ 88]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.09-22.26.57:743][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-22.26.57:744][ 88]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.09-22.26.57:744][ 88]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.09-22.26.57:747][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.09-22.26.57:752][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-22.26.57:769][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.09-22.26.57:769][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.09.09-22.26.57:770][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.09.09-22.26.57:772][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.09.09-22.26.57:781][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.09.09-22.26.57:884][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.09.09-22.41.44:330][866]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.09.09-22.46.06:798][667]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.09.09-23.10.25:717][982]LogDerivedDataCache: C:/Users/Debora/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.09.09-23.41.10:695][515]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.09.09-23.44.12:438][ 59]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1

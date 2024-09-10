@@ -2661,3 +2661,972 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.10-06.48.57:047][104]AssetCheck: /Game/UI/MenuGameMode Validating asset
 [2024.09.10-06.48.57:047][104]LogContentValidation: Display: Validating asset /Game/UI/pngtree-in-the-style-of-unreal-engine-5-picture-image_2659661.pngtree-in-the-style-of-unreal-engine-5-picture-image_2659661
 [2024.09.10-06.48.57:047][104]AssetCheck: /Game/UI/pngtree-in-the-style-of-unreal-engine-5-picture-image_2659661 Validating asset
+[2024.09.10-07.05.16:629][ 93]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.05.16:629][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.05.16:642][ 93]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.05.16:642][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.05.16:764][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.09.10-07.05.19:533][232]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.05.19:533][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.05.19:632][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.09.10-07.05.26:528][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.09.10-07.05.26:747][860]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Forest.Forest
+[2024.09.10-07.05.26:748][860]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.09.10-07.05.26:811][860]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.05.26:811][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.05.26:811][860]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.05.26:811][860]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.05.26:832][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.10-07.05.26:835][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.09.10-07.05.26:846][860]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.05.26:847][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.05.26:938][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.09.10-07.05.26:967][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.09.10-07.05.27:094][860]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2024.09.10-07.05.27:095][860]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.05.27:348][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.09.10-07.05.27:374][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.09.10-07.05.27:382][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.10-07.05.27:382][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2024.09.10-07.05.58:132][581]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.05.58:146][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.10-07.05.58:146][581]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.05.58:219][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072945s)
+[2024.09.10-07.05.58:220][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.073022s)
+[2024.09.10-07.05.58:242][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.09.10-07.05.58:246][581]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.05.58:247][581]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2024.09.10-07.05.58:276][581]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.09.10-07.05.58:276][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.05.58:276][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.05.58:277][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.05.58:277][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.05.58:277][581]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.05.58:277][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.05.58:277][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.05.58:277][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.05.58:277][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.05.58:277][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.05.58:277][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.05.58:279][581]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.05.58:303][581]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.05.58:304][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.05.58:304][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.05.58:304][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.05.58:305][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.09.10-07.05.58:305][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.09.10-07.05.58:307][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.09.10-07.05.58:307][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.09.10-07.05.58:307][581]LogInit: FAudioDevice initialized with ID 12.
+[2024.09.10-07.05.58:307][581]LogAudio: Display: Audio Device (ID: 12) registered with world 'Forest'.
+[2024.09.10-07.05.58:307][581]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.09.10-07.05.58:310][581]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.05.58:332][581]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.05.58
+[2024.09.10-07.05.58:333][581]LogWorld: Bringing up level for play took: 0.023429
+[2024.09.10-07.05.58:336][581]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.09.10-07.05.58:367][581]PIE: Server logged in
+[2024.09.10-07.05.58:368][581]PIE: Play in editor total start time 0.227 seconds.
+[2024.09.10-07.06.06:231][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.06.06:231][714]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.06.06:231][714]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.06.06:232][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.06.06:232][714]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.06.06:232][714]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.06.06:256][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.06.06:262][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.06.06:281][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.10-07.06.06:281][714]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.09.10-07.06.06:281][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.09.10-07.06.06:283][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.09.10-07.06.06:287][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.06.06:291][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.09.10-07.06.06:389][715]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.09.10-07.06.07:014][717]LogSlate: Took 0.008323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.09.10-07.08.31:166][151]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.08.31:180][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.10-07.08.31:180][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.08.31:251][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069988s)
+[2024.09.10-07.08.31:251][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.070069s)
+[2024.09.10-07.08.31:271][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.09.10-07.08.31:279][151]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.08.31:281][151]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2024.09.10-07.08.31:310][151]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.08.31:310][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.08.31:310][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.08.31:310][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.08.31:310][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.08.31:310][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.08.31:312][151]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.08.31:334][151]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.08.31:335][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.08.31:335][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.08.31:335][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.08.31:335][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.09.10-07.08.31:335][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.09.10-07.08.31:337][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.09.10-07.08.31:337][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.09.10-07.08.31:337][151]LogInit: FAudioDevice initialized with ID 13.
+[2024.09.10-07.08.31:337][151]LogAudio: Display: Audio Device (ID: 13) registered with world 'Forest'.
+[2024.09.10-07.08.31:337][151]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.09.10-07.08.31:340][151]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.08.31:360][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.08.31
+[2024.09.10-07.08.31:361][151]LogWorld: Bringing up level for play took: 0.020746
+[2024.09.10-07.08.31:363][151]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.09.10-07.08.31:394][151]PIE: Server logged in
+[2024.09.10-07.08.31:395][151]PIE: Play in editor total start time 0.221 seconds.
+[2024.09.10-07.08.56:838][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.08.56:838][198]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.08.56:838][198]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.08.56:839][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.08.56:840][198]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.08.56:840][198]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.08.56:844][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.08.56:850][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.08.56:868][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.08.56:869][198]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.09.10-07.08.56:869][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.09.10-07.08.56:871][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.09.10-07.08.56:879][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.09.10-07.08.57:037][199]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.09.10-07.09.02:897][352]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/Weapons/Textures/Assault_Rifle_B_Masks.Assault_Rifle_B_Masks (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.03:021][352]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/Weapons/Textures/Assault_Rifle_B_Diff.Assault_Rifle_B_Diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.03:044][352]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/Weapons/Textures/Assault_Rifle_B_Norm.Assault_Rifle_B_Norm (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.03:337][352]LogStaticMesh: StaticMesh /Game/MilitaryWeapDark/FX/Meshes/St_Sphere_01.St_Sphere_01 should be resaved to improve async compilation performance.
+[2024.09.10-07.09.03:372][352]LogStaticMesh: Display: Building static mesh St_Sphere_01 (Required Memory Estimate: 1.368876 MB)...
+[2024.09.10-07.09.03:389][352]LogStaticMesh: Built static mesh [0.02s] /Game/MilitaryWeapDark/FX/Meshes/St_Sphere_01.St_Sphere_01
+[2024.09.10-07.09.03:419][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:419][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:420][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:420][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_49' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:420][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_50' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_51' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_53' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_54' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_57' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_60' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_63' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:421][352]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Rifle/RifleB_Fire_Cue.RifleB_Fire_Cue:SoundCueGraph_17.SoundCueGraphNode_Root_17' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.09.10-07.09.03:423][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire01...
+[2024.09.10-07.09.03:424][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire02...
+[2024.09.10-07.09.03:424][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire03...
+[2024.09.10-07.09.03:425][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire04...
+[2024.09.10-07.09.03:426][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire05...
+[2024.09.10-07.09.03:427][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire06...
+[2024.09.10-07.09.03:427][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire_ST01...
+[2024.09.10-07.09.03:427][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire_ST02...
+[2024.09.10-07.09.03:427][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire_ST03...
+[2024.09.10-07.09.03:428][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire_ST04...
+[2024.09.10-07.09.03:441][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire_ST05...
+[2024.09.10-07.09.03:442][352]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave RifleB_Fire_ST06...
+[2024.09.10-07.09.03:470][352]LogSkeletalMesh: Building Skeletal Mesh Assault_Rifle_B...
+[2024.09.10-07.09.03:560][352]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/MilitaryWeapDark/Weapons/Assault_Rifle_B.Assault_Rifle_B
+[2024.09.10-07.09.03:561][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MilitaryWeapDark/Weapons/Anims/Fire_Rifle_W.Fire_Rifle_W (Required Memory Estimate: 0.11 MB)
+[2024.09.10-07.09.03:564][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/MilitaryWeapDark/Weapons/Anims/Fire_Rifle_W.Fire_Rifle_W, at AnimationSequence/e34d7e30b7faa636b5c8480bb246cbe9379d9cc4
+[2024.09.10-07.09.03:565][352]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2024.09.10-07.09.04:940][352]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.09.10-07.09.04:940][352]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.09.10-07.09.09:962][352]LogSkeletalMesh: Built Skeletal Mesh [6.40s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.09.10-07.09.09:964][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.09.10-07.09.09:964][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim (Required Memory Estimate: 7.31 MB)
+[2024.09.10-07.09.09:965][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.09.10-07.09.09:965][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2024.09.10-07.09.09:965][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2024.09.10-07.09.09:965][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.09.10-07.09.09:965][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.09.10-07.09.09:989][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/a6577db40f7e4cc736bc566cee8752dd68e8fd9b
+[2024.09.10-07.09.09:998][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/64c3dbfeea45309d9eea7806fe1394cf6466e0ab
+[2024.09.10-07.09.10:005][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/2dc5b9213b96c904c0cd912bce8b9bb18ffb5d8c
+[2024.09.10-07.09.10:018][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2024.09.10-07.09.10:019][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2024.09.10-07.09.10:025][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim (Required Memory Estimate: 4.15 MB)
+[2024.09.10-07.09.10:030][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/f16a80320867b9275bdf65ee70768f4ba9f4cceb
+[2024.09.10-07.09.10:034][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/d0816f656b7851f0133e287ada48b5caf66e7ab7
+[2024.09.10-07.09.10:039][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/f536cda64db2281ab8da8d5da9f5e78f9a2bc2e3
+[2024.09.10-07.09.10:067][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/09b8a5acb51b26347d27805cbb0a0c8c1bfe80e1
+[2024.09.10-07.09.10:068][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim (Required Memory Estimate: 4.15 MB)
+[2024.09.10-07.09.10:068][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2024.09.10-07.09.10:068][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2024.09.10-07.09.10:068][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim (Required Memory Estimate: 7.31 MB)
+[2024.09.10-07.09.10:074][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/8d08e0bc7e16566ff6a2461265ad19a3f84eeb22
+[2024.09.10-07.09.10:084][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/58fa9d19c6ab2d6cd4ad33d19df1a822333dcf8e
+[2024.09.10-07.09.10:103][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/a7204e1445e14198f503e01c5c6c2e7dcab5afa3
+[2024.09.10-07.09.10:153][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/cee3e6ff34040b77d3e4e1e0fc0ac68b9edcc826
+[2024.09.10-07.09.10:175][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/d1cf13a168b8972165fccc8f6532f1d684401e52
+[2024.09.10-07.09.10:178][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/abea6bdcab6c19c0535c30d7b75b882ac01b751d
+[2024.09.10-07.09.10:184][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/69ed5454cfbef853f2fa00c1d18ea51101f59536
+[2024.09.10-07.09.10:184][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1120.0625 MiB, MemoryLimit = 1083.394531 MiB 
+[2024.09.10-07.09.10:184][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1120.0625 MiB, MemoryLimit = 1083.394531 MiB 
+[2024.09.10-07.09.10:185][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.390625 MiB 
+[2024.09.10-07.09.10:185][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.390625 MiB 
+[2024.09.10-07.09.10:185][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.433594 MiB 
+[2024.09.10-07.09.10:185][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.433594 MiB 
+[2024.09.10-07.09.10:185][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.4375 MiB 
+[2024.09.10-07.09.10:185][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.4375 MiB 
+[2024.09.10-07.09.10:186][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.449219 MiB 
+[2024.09.10-07.09.10:186][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.449219 MiB 
+[2024.09.10-07.09.10:186][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.460938 MiB 
+[2024.09.10-07.09.10:186][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.460938 MiB 
+[2024.09.10-07.09.10:187][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.515625 MiB 
+[2024.09.10-07.09.10:187][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.515625 MiB 
+[2024.09.10-07.09.10:187][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.539062 MiB 
+[2024.09.10-07.09.10:187][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.539062 MiB 
+[2024.09.10-07.09.10:188][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.535156 MiB 
+[2024.09.10-07.09.10:188][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.535156 MiB 
+[2024.09.10-07.09.10:188][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.757812 MiB 
+[2024.09.10-07.09.10:188][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.757812 MiB 
+[2024.09.10-07.09.10:191][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire01.RifleB_Fire01: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21933 bytes, ChunkN=0)
+[2024.09.10-07.09.10:192][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire02.RifleB_Fire02: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=22219 bytes, ChunkN=0)
+[2024.09.10-07.09.10:192][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire03.RifleB_Fire03: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=28293 bytes, ChunkN=0)
+[2024.09.10-07.09.10:193][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire04.RifleB_Fire04: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=27421 bytes, ChunkN=0)
+[2024.09.10-07.09.10:194][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire05.RifleB_Fire05: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21837 bytes, ChunkN=0)
+[2024.09.10-07.09.10:195][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire06.RifleB_Fire06: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=27763 bytes, ChunkN=0)
+[2024.09.10-07.09.10:196][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire_ST01.RifleB_Fire_ST01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=36425 bytes, ChunkN=0)
+[2024.09.10-07.09.10:196][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire_ST02.RifleB_Fire_ST02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=36831 bytes, ChunkN=0)
+[2024.09.10-07.09.10:197][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire_ST03.RifleB_Fire_ST03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=41877 bytes, ChunkN=0)
+[2024.09.10-07.09.10:198][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire_ST04.RifleB_Fire_ST04: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=41737 bytes, ChunkN=0)
+[2024.09.10-07.09.10:199][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire_ST05.RifleB_Fire_ST05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39045 bytes, ChunkN=0)
+[2024.09.10-07.09.10:200][352]LogAudio: Display: Chunk stats for (SoundWave /Game/MilitaryWeapDark/Sound/Rifle/Wavs/RifleB_Fire_ST06.RifleB_Fire_ST06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=44907 bytes, ChunkN=0)
+[2024.09.10-07.09.10:201][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.277344 MiB 
+[2024.09.10-07.09.10:201][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.273438 MiB 
+[2024.09.10-07.09.10:201][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.265625 MiB 
+[2024.09.10-07.09.10:201][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.261719 MiB 
+[2024.09.10-07.09.10:202][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.375 MiB 
+[2024.09.10-07.09.10:202][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.375 MiB 
+[2024.09.10-07.09.10:202][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.40625 MiB 
+[2024.09.10-07.09.10:202][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1083.40625 MiB 
+[2024.09.10-07.09.10:210][352]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/FX/Textures/T_AssaultRifle_MuzzleFlashes_01.T_AssaultRifle_MuzzleFlashes_01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.10:227][352]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/FX/Textures/T_FL_Detail_01.T_FL_Detail_01 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.10:238][352]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/FX/Textures/T_Pistol_Smoke_2x2_A.T_Pistol_Smoke_2x2_A (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.10:259][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/UE5/UE5_Jog_Rt_Rifle.UE5_Jog_Rt_Rifle (Required Memory Estimate: 1.52 MB)
+[2024.09.10-07.09.10:259][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/UE5/UE5_Jog_Lt_Rifle.UE5_Jog_Lt_Rifle (Required Memory Estimate: 1.27 MB)
+[2024.09.10-07.09.10:259][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/UE5/UE5_Jog_Fwd_Rifle.UE5_Jog_Fwd_Rifle (Required Memory Estimate: 1.52 MB)
+[2024.09.10-07.09.10:260][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/UE5/UE5_Jog_Bwd_Rifle.UE5_Jog_Bwd_Rifle (Required Memory Estimate: 1.52 MB)
+[2024.09.10-07.09.10:263][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/UE5/UE5_Idle_Rifle_Ironsights.UE5_Idle_Rifle_Ironsights (Required Memory Estimate: 5.97 MB)
+[2024.09.10-07.09.10:265][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.09.10-07.09.10:267][352]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/UE5/UE5_Idle_Rifle_Hip.UE5_Idle_Rifle_Hip (Required Memory Estimate: 5.97 MB)
+[2024.09.10-07.09.10:284][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/UE5/UE5_Jog_Lt_Rifle.UE5_Jog_Lt_Rifle, at AnimationSequence/8d4dcf3aa9426839ec94d8c1f011fb2908193360
+[2024.09.10-07.09.10:293][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/UE5/UE5_Jog_Bwd_Rifle.UE5_Jog_Bwd_Rifle, at AnimationSequence/6497da77c5b7aa77b2f4e0fb14617b020780e459
+[2024.09.10-07.09.10:298][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/UE5/UE5_Jog_Rt_Rifle.UE5_Jog_Rt_Rifle, at AnimationSequence/84a7342048d713ea81f68332d3ab73d86e64bc3b
+[2024.09.10-07.09.10:299][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/UE5/UE5_Jog_Fwd_Rifle.UE5_Jog_Fwd_Rifle, at AnimationSequence/9b8e034a0b515d8a40fe9d077e55d2a11e482b8f
+[2024.09.10-07.09.10:364][352]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2024.09.10-07.09.10:365][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/UE5/UE5_Idle_Rifle_Ironsights.UE5_Idle_Rifle_Ironsights, at AnimationSequence/6e6948d2ab366e694daf48d24921d3def8d3b6cf
+[2024.09.10-07.09.10:366][352]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/UE5/UE5_Idle_Rifle_Hip.UE5_Idle_Rifle_Hip, at AnimationSequence/6532d3a2179a2c03fd0abf3c4ea9aac76cc8b85d
+[2024.09.10-07.09.10:366][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1091.105469 MiB 
+[2024.09.10-07.09.10:366][352]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 1091.105469 MiB 
+[2024.09.10-07.09.10:938][353]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/FX/Textures/T_Smoke_8x8_B_01.T_Smoke_8x8_B_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.11:578][354]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/FX/P_AssaultRifle_MuzzleFlash.P_AssaultRifle_MuzzleFlash:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.09.10-07.09.11:592][354]LogTexture: Display: Building textures: /Game/MilitaryWeapDark/FX/Textures/T_Spherical_NormalMap_01.T_Spherical_NormalMap_01 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: ================================================
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Total job queries 659, among them cache hits 261 (39.61%), DDC hits 155 (23.52%), Duplicates 14 (2.12%)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Tracking 384 distinct input hashes that result in 326 distinct outputs (84.90%)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: RAM used: 10.09 MiB of 1.60 GiB budget. Usage: 0.62%
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Shaders Compiled: 229
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Jobs assigned 229, completed 229 (100%)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Average time worker was idle: 62.32 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Time job spent in pending queue: average 22.20 s, longest 59.81 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Job execution time: average 2.88 s, max 23.56 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Job life time (pending + execution): average 25.07 s, max 71.88
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Shader code size: average 37.661 KiB, min 4.586 KiB, max 81.055 KiB
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.97 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.50%
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Jobs were issued in 229 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Average processing rate: 2.57 jobs/sec
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Total thread time: 600.284 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Total thread preprocess time: 15.906 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Percentage time preprocessing: 2.65%
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Effective parallelization: 6.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 18.52 sec, max 23.46 sec, min 13.38 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    8 times, average 13.77 sec, max 18.02 sec, min 10.18 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 13.66 sec, max 21.13 sec, min 6.19 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                    TBasePassPSFNoLightMapPolicyForceVelocity (compiled    4 times, average 9.10 sec, max 10.95 sec, min 7.32 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    8 times, average 5.64 sec, max 8.10 sec, min 4.06 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 18.35% of total time (compiled    8 times, average 13.77 sec, max 18.02 sec, min 10.18 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.34% of total time (compiled    4 times, average 18.52 sec, max 23.46 sec, min 13.38 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.14% of total time (compiled   34 times, average 2.14 sec, max 8.82 sec, min 0.54 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 9.11% of total time (compiled    4 times, average 13.66 sec, max 21.13 sec, min 6.19 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display:                                               FHWRasterizePS - 7.52% of total time (compiled    8 times, average 5.64 sec, max 8.10 sec, min 4.06 sec)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: === Material stats ===
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Materials Translated:    182
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Material Translation Only: 0.16 s (62%)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: Material Cache Hits: 38 (21%)
+[2024.09.10-07.11.18:165][872]LogShaderCompilers: Display: ================================================
+[2024.09.10-07.12.02:000][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.12.02:016][994]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2024.09.10-07.12.02:016][994]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.09.10-07.12.02:185][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.09.10-07.12.02:189][994]LogPlayLevel: PlayLevel: Blueprint regeneration took 175 ms (2 blueprints)
+[2024.09.10-07.12.02:191][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.12.02:259][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068223s)
+[2024.09.10-07.12.02:259][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.068272s)
+[2024.09.10-07.12.02:284][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.09.10-07.12.02:286][994]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.12.02:287][994]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2024.09.10-07.12.02:317][994]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.12.02:317][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.12.02:317][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.12.02:317][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.12.02:317][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.12.02:317][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.12.02:319][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.12.02:342][994]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.12.02:342][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.12.02:342][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.12.02:342][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.12.02:343][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.09.10-07.12.02:343][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.09.10-07.12.02:345][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.09.10-07.12.02:345][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.09.10-07.12.02:345][994]LogInit: FAudioDevice initialized with ID 14.
+[2024.09.10-07.12.02:345][994]LogAudio: Display: Audio Device (ID: 14) registered with world 'Forest'.
+[2024.09.10-07.12.02:345][994]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.09.10-07.12.02:350][994]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.12.02:373][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.12.02
+[2024.09.10-07.12.02:374][994]LogWorld: Bringing up level for play took: 0.024048
+[2024.09.10-07.12.02:376][994]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.09.10-07.12.02:408][994]PIE: Server logged in
+[2024.09.10-07.12.02:409][994]PIE: Play in editor total start time 0.402 seconds.
+[2024.09.10-07.12.20:716][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.12.20:717][440]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.12.20:717][440]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.12.20:718][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.12.20:718][440]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.12.20:718][440]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.12.20:749][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.12.20:755][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.12.20:774][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.12.20:775][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.09.10-07.12.20:775][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.09.10-07.12.20:777][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.09.10-07.12.20:786][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.09.10-07.12.20:996][441]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.09.10-07.12.24:002][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.12.24:058][700]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.09.10-07.12.24:164][700]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.09.10-07.12.24:173][700]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.09.10-07.12.24:173][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.09.10-07.12.24:197][700]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.09.10-07.12.24:198][700]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_ThirdPersonCharacter9DCA19144122F85298D7BB809F449321.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.09.10-07.12.24:208][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.924 ms (total: 851.054 ms)
+[2024.09.10-07.12.24:258][700]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.12.24:258][700]LogContentValidation: Enabled validators:
+[2024.09.10-07.12.24:258][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.12.24:258][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.12.24:258][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.12.24:258][700]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.09.10-07.12.24:258][700]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.09.10-07.16.33:232][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.09.10-07.16.33:235][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Forest' took 0.026
+[2024.09.10-07.16.33:236][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.09.10-07.16.33:397][531]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.09.10-07.16.33:397][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.09.10-07.16.33:423][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.09.10-07.16.33:424][531]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_ThirdPersonCharacter_Auto2280B744844F9B52E66B920B5A5BD6CE6.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.09.10-07.16.33:426][531]LogFileHelpers: Auto-saving content packages took 0.190
+[2024.09.10-07.16.54:738][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.16.54:792][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.09.10-07.16.54:863][ 58]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.09.10-07.16.54:863][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.09.10-07.16.54:887][ 58]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.09.10-07.16.54:888][ 58]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_ThirdPersonCharacterB9EB113F4FB81783B2E47A9844E513FE.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.09.10-07.16.54:898][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.707 ms (total: 1.01 sec)
+[2024.09.10-07.16.54:957][ 58]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.16.54:957][ 58]LogContentValidation: Enabled validators:
+[2024.09.10-07.16.54:957][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.16.54:957][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.16.54:957][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.16.54:957][ 58]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.09.10-07.16.54:957][ 58]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.09.10-07.16.57:350][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.16.57:369][194]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2024.09.10-07.16.57:370][194]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.09.10-07.16.57:547][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.09.10-07.16.57:551][194]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (2 blueprints)
+[2024.09.10-07.16.57:551][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.16.57:615][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064129s)
+[2024.09.10-07.16.57:615][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.064184s)
+[2024.09.10-07.16.57:636][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.09.10-07.16.57:638][194]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.16.57:639][194]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2024.09.10-07.16.57:669][194]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.16.57:669][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.16.57:669][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.16.57:669][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.16.57:669][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.16.57:669][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.16.57:671][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.16.57:692][194]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.16.57:692][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.16.57:692][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.16.57:692][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.16.57:693][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.09.10-07.16.57:693][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.09.10-07.16.57:695][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.09.10-07.16.57:695][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.09.10-07.16.57:695][194]LogInit: FAudioDevice initialized with ID 15.
+[2024.09.10-07.16.57:695][194]LogAudio: Display: Audio Device (ID: 15) registered with world 'Forest'.
+[2024.09.10-07.16.57:695][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.09.10-07.16.57:699][194]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.16.57:731][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.16.57
+[2024.09.10-07.16.57:732][194]LogWorld: Bringing up level for play took: 0.032926
+[2024.09.10-07.16.57:734][194]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.09.10-07.16.57:768][194]PIE: Server logged in
+[2024.09.10-07.16.57:769][194]PIE: Play in editor total start time 0.408 seconds.
+[2024.09.10-07.17.15:814][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.17.15:814][745]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.17.15:814][745]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.17.15:815][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.17.15:815][745]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.17.15:815][745]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.17.15:844][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.17.15:851][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.17.15:871][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.17.15:872][745]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.09.10-07.17.15:872][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.09.10-07.17.15:873][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.09.10-07.17.15:882][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.09.10-07.17.16:090][746]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.09.10-07.18.02:848][376]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.09.10-07.19.10:093][275]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.10-07.20.22:734][367]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.20.22:755][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.10-07.20.22:755][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.20.22:856][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101101s)
+[2024.09.10-07.20.22:856][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.101150s)
+[2024.09.10-07.20.22:877][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.09.10-07.20.22:885][367]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.20.22:886][367]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2024.09.10-07.20.22:917][367]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.20.22:917][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.20.22:917][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.20.22:917][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.20.22:917][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.20.22:917][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.20.22:919][367]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.20.22:941][367]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.20.22:942][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.20.22:942][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.20.22:942][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.20.22:942][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.09.10-07.20.22:942][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.09.10-07.20.22:944][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.09.10-07.20.22:944][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.09.10-07.20.22:944][367]LogInit: FAudioDevice initialized with ID 16.
+[2024.09.10-07.20.22:944][367]LogAudio: Display: Audio Device (ID: 16) registered with world 'Forest'.
+[2024.09.10-07.20.22:944][367]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.09.10-07.20.22:946][367]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.20.22:969][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.20.22
+[2024.09.10-07.20.22:970][367]LogWorld: Bringing up level for play took: 0.023473
+[2024.09.10-07.20.22:972][367]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.09.10-07.20.23:006][367]PIE: Server logged in
+[2024.09.10-07.20.23:007][367]PIE: Play in editor total start time 0.263 seconds.
+[2024.09.10-07.20.36:309][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.20.36:309][675]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.20.36:312][675]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.20.36:318][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.20.36:320][675]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.20.36:320][675]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.20.36:337][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.20.36:357][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.20.36:382][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.20.36:382][675]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.09.10-07.20.36:383][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.09.10-07.20.36:387][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.09.10-07.20.36:415][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.09.10-07.20.36:637][676]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.09.10-07.23.25:911][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.23.25:976][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.09.10-07.23.26:082][702]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.09.10-07.23.26:082][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.09.10-07.23.26:131][702]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.09.10-07.23.26:132][702]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_ThirdPersonCharacter82D996394251523400B4BF9D9D6024CB.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.09.10-07.23.26:147][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.466 ms (total: 1.24 sec)
+[2024.09.10-07.23.26:224][702]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.23.26:224][702]LogContentValidation: Enabled validators:
+[2024.09.10-07.23.26:224][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.23.26:224][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.23.26:224][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.23.26:224][702]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.09.10-07.23.26:225][702]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.09.10-07.23.29:512][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2024.09.10-07.23.31:903][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.23.31:927][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.10-07.23.31:927][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.23.32:067][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139084s)
+[2024.09.10-07.23.32:067][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.139148s)
+[2024.09.10-07.23.32:097][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.09.10-07.23.32:105][114]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.23.32:108][114]LogPlayLevel: PIE: World Init took: (0.002265s)
+[2024.09.10-07.23.32:137][114]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.09.10-07.23.32:137][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.23.32:137][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.23.32:137][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.23.32:137][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.23.32:137][114]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.23.32:137][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.23.32:138][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.23.32:138][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.23.32:138][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.23.32:138][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.23.32:138][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.23.32:140][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.23.32:164][114]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.23.32:164][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.23.32:164][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.23.32:164][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.23.32:165][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.09.10-07.23.32:165][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.09.10-07.23.32:167][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.09.10-07.23.32:167][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.09.10-07.23.32:167][114]LogInit: FAudioDevice initialized with ID 17.
+[2024.09.10-07.23.32:167][114]LogAudio: Display: Audio Device (ID: 17) registered with world 'Forest'.
+[2024.09.10-07.23.32:167][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.09.10-07.23.32:174][114]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.23.32:200][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.23.32
+[2024.09.10-07.23.32:201][114]LogWorld: Bringing up level for play took: 0.026392
+[2024.09.10-07.23.32:204][114]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.09.10-07.23.32:238][114]PIE: Server logged in
+[2024.09.10-07.23.32:239][114]PIE: Play in editor total start time 0.319 seconds.
+[2024.09.10-07.23.47:231][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.23.47:231][450]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.23.47:232][450]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.23.47:233][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.23.47:233][450]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.23.47:233][450]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.23.47:240][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.23.47:248][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.23.47:269][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.10-07.23.47:269][450]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.09.10-07.23.47:270][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.09.10-07.23.47:274][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.09.10-07.23.47:281][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.23.47:285][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.09.10-07.23.47:455][451]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.09.10-07.24.43:884][235]LogTexture: Display: Building textures: /Game/ParagonMurdock/Characters/Global/MaterialLayers/Fabric/T_ML_Fabric_Basic2.T_ML_Fabric_Basic2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.09.10-07.24.43:974][236]LogTexture: Display: Building textures: /Game/ParagonMurdock/Characters/Global/MaterialLayers/Metal/T_RoughMetal01_N.T_RoughMetal01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.09.10-07.24.44:212][238]LogTexture: Display: Building textures: /Game/ParagonMurdock/Characters/Global/MaterialLayers/Metal/T_RoughMetal01.T_RoughMetal01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.09.10-07.24.44:755][255]LogSkeletalMesh: Building Skeletal Mesh Murdock...
+[2024.09.10-07.24.46:608][345]LogSkeletalMesh: Built Skeletal Mesh [1.85s] /Game/ParagonMurdock/Characters/Heroes/Murdock/Meshes/Murdock.Murdock
+[2024.09.10-07.24.46:747][354]LogTexture: Display: Building textures: /Game/ParagonMurdock/Characters/Global/MaterialLayers/Metal/T_ML_Gold_Metal01.T_ML_Gold_Metal01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.09.10-07.24.46:884][360]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 672.640625 MiB 
+[2024.09.10-07.24.46:884][360]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1152.0625 MiB, MemoryLimit = 672.386719 MiB 
+[2024.09.10-07.24.47:030][362]LogTexture: Display: Building textures: /Game/ParagonMurdock/Characters/Heroes/Murdock/Textures/T_Murdock_Body_Decals_01.T_Murdock_Body_Decals_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.09.10-07.24.55:938][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.10-07.24.56:781][732]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.09.10-07.25.23:265][ 31]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.09.10-07.26.18:194][633]LogShaderCompilers: Display: ================================================
+[2024.09.10-07.26.18:194][633]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Total job queries 767, among them cache hits 261 (34.03%), DDC hits 155 (20.21%), Duplicates 15 (1.96%)
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Tracking 491 distinct input hashes that result in 401 distinct outputs (81.67%)
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: RAM used: 12.23 MiB of 1.60 GiB budget. Usage: 0.75%
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Shaders Compiled: 336
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Jobs assigned 336, completed 336 (100%)
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Average time worker was idle: 97.74 s
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Time job spent in pending queue: average 15.32 s, longest 59.81 s
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Job execution time: average 2.21 s, max 23.56 s
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Job life time (pending + execution): average 17.53 s, max 71.88
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Shader code size: average 36.995 KiB, min 4.586 KiB, max 81.055 KiB
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 104.75 s
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.42%
+[2024.09.10-07.26.18:195][633]LogShaderCompilers: Display: Jobs were issued in 336 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Average processing rate: 3.21 jobs/sec
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Total thread time: 667.749 s
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Total thread preprocess time: 17.951 s
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Percentage time preprocessing: 2.69%
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Effective parallelization: 6.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 18.52 sec, max 23.46 sec, min 13.38 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    8 times, average 13.77 sec, max 18.02 sec, min 10.18 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 13.66 sec, max 21.13 sec, min 6.19 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                    TBasePassPSFNoLightMapPolicyForceVelocity (compiled    4 times, average 9.10 sec, max 10.95 sec, min 7.32 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    8 times, average 5.64 sec, max 8.10 sec, min 4.06 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 16.50% of total time (compiled    8 times, average 13.77 sec, max 18.02 sec, min 10.18 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.86% of total time (compiled   48 times, average 1.79 sec, max 8.82 sec, min 0.54 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.09% of total time (compiled    4 times, average 18.52 sec, max 23.46 sec, min 13.38 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 8.19% of total time (compiled    4 times, average 13.66 sec, max 21.13 sec, min 6.19 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.25% of total time (compiled   30 times, average 1.61 sec, max 11.73 sec, min 0.45 sec)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: === Material stats ===
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Materials Translated:    186
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Material Translation Only: 0.18 s (65%)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: Material Cache Hits: 38 (20%)
+[2024.09.10-07.26.18:196][633]LogShaderCompilers: Display: ================================================
+[2024.09.10-07.26.44:848][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.26.44:914][617]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.26.45:091][617]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited_C]
+[2024.09.10-07.26.45:107][617]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.10-07.26.45:107][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.26.45:160][617]LogSavePackage: Moving output files for package: /Game/mINE/BP_characterThirdPersonEdited
+[2024.09.10-07.26.45:161][617]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEditedD53AED104E7F0E32DF5C28B27A704CD2.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset'
+[2024.09.10-07.26.45:172][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.563 ms (total: 1.57 sec)
+[2024.09.10-07.26.45:223][617]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.26.45:223][617]LogContentValidation: Enabled validators:
+[2024.09.10-07.26.45:223][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.26.45:223][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.26.45:223][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.26.45:223][617]LogContentValidation: Display: Validating asset /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.10-07.26.45:224][617]AssetCheck: /Game/mINE/BP_characterThirdPersonEdited Validating asset
+[2024.09.10-07.27.26:328][220]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\Team14\ExtinctionRebel\Content\mINE\BP_characterThirdPersonEdited.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2024.09.10-07.29.02:779][906]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\Team14\ExtinctionRebel\Content\mINE\BP_characterThirdPersonEdited.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2024.09.10-07.29.38:003][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.09.10-07.29.38:006][970]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Forest' took 0.030
+[2024.09.10-07.29.38:007][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.29.38:143][970]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.10-07.29.38:143][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.29.38:191][970]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/mINE/BP_characterThirdPersonEdited_Auto3
+[2024.09.10-07.29.38:192][970]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEdited_AuFCB326B747D7598C885ACCB6FC27CA74.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/Autosaves/Game/mINE/BP_characterThirdPersonEdited_Auto3.uasset'
+[2024.09.10-07.29.38:193][970]LogFileHelpers: Auto-saving content packages took 0.187
+[2024.09.10-07.38.02:347][822]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\Team14\ExtinctionRebel\Content\mINE\BP_characterThirdPersonEdited.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2024.09.10-07.38.31:947][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.38.32:007][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.38.32:106][ 17]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.10-07.38.32:106][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.38.32:150][ 17]LogSavePackage: Moving output files for package: /Game/mINE/BP_characterThirdPersonEdited
+[2024.09.10-07.38.32:151][ 17]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEditedACD459A94E0F996AFCF8BCB44C1C3516.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset'
+[2024.09.10-07.38.32:162][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.544 ms (total: 1.78 sec)
+[2024.09.10-07.38.32:223][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.38.32:223][ 17]LogContentValidation: Enabled validators:
+[2024.09.10-07.38.32:223][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.38.32:223][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.38.32:223][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.38.32:223][ 17]LogContentValidation: Display: Validating asset /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.10-07.38.32:223][ 17]AssetCheck: /Game/mINE/BP_characterThirdPersonEdited Validating asset
+[2024.09.10-07.38.39:189][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.38.39:224][397]LogPlayLevel: [PlayLevel] Compiling AB_Murdock before play...
+[2024.09.10-07.38.39:227][397]LogPlayLevel: [PlayLevel]   Compiling BP_characterThirdPersonEdited as a dependent...
+[2024.09.10-07.38.39:441][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.09.10-07.38.39:445][397]LogPlayLevel: PlayLevel: Blueprint regeneration took 234 ms (2 blueprints)
+[2024.09.10-07.38.39:446][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.38.39:521][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075005s)
+[2024.09.10-07.38.39:521][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.075062s)
+[2024.09.10-07.38.39:549][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.09.10-07.38.39:551][397]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.38.39:552][397]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2024.09.10-07.38.39:582][397]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.38.39:582][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.38.39:582][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.38.39:582][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.38.39:583][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.38.39:583][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.38.39:585][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.38.39:609][397]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.38.39:609][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.38.39:609][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.38.39:609][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.38.39:610][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.09.10-07.38.39:610][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.09.10-07.38.39:611][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.09.10-07.38.39:611][397]LogInit: FAudioDevice initialized with ID 18.
+[2024.09.10-07.38.39:612][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.09.10-07.38.39:612][397]LogAudio: Display: Audio Device (ID: 18) registered with world 'Forest'.
+[2024.09.10-07.38.39:612][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.09.10-07.38.39:616][397]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.38.39:641][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.38.39
+[2024.09.10-07.38.39:642][397]LogWorld: Bringing up level for play took: 0.025797
+[2024.09.10-07.38.39:644][397]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.09.10-07.38.39:677][397]PIE: Server logged in
+[2024.09.10-07.38.39:677][397]PIE: Play in editor total start time 0.48 seconds.
+[2024.09.10-07.38.56:533][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.38.56:533][884]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.38.56:533][884]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.38.56:535][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.38.56:536][884]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.38.56:536][884]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.38.56:551][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.38.56:559][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.38.56:584][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.38.56:585][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.09.10-07.38.56:585][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.09.10-07.38.56:591][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.09.10-07.38.56:601][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.09.10-07.38.56:723][885]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.09.10-07.40.25:847][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.09.10-07.40.25:853][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Forest' took 0.027
+[2024.09.10-07.40.25:853][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.40.26:079][181]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.10-07.40.26:079][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.40.26:131][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/mINE/BP_characterThirdPersonEdited_Auto4
+[2024.09.10-07.40.26:132][181]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEdited_Au0E7B06224B803303A9A174B4F3531FB8.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/Autosaves/Game/mINE/BP_characterThirdPersonEdited_Auto4.uasset'
+[2024.09.10-07.40.26:134][181]LogFileHelpers: Auto-saving content packages took 0.281
+[2024.09.10-07.40.45:008][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.40.45:024][222]LogPlayLevel: [PlayLevel] Compiling AB_Murdock before play...
+[2024.09.10-07.40.45:027][222]LogPlayLevel: [PlayLevel]   Compiling BP_characterThirdPersonEdited as a dependent...
+[2024.09.10-07.40.45:206][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.09.10-07.40.45:210][222]LogPlayLevel: PlayLevel: Blueprint regeneration took 188 ms (2 blueprints)
+[2024.09.10-07.40.45:210][222]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.40.45:270][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059842s)
+[2024.09.10-07.40.45:270][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.059920s)
+[2024.09.10-07.40.45:292][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.09.10-07.40.45:294][222]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.40.45:295][222]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2024.09.10-07.40.45:325][222]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.40.45:325][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.40.45:325][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.40.45:325][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.40.45:325][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.40.45:325][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.40.45:326][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.40.45:348][222]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.40.45:348][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.40.45:348][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.40.45:348][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.40.45:349][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.09.10-07.40.45:349][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.09.10-07.40.45:350][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.09.10-07.40.45:350][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.09.10-07.40.45:350][222]LogInit: FAudioDevice initialized with ID 19.
+[2024.09.10-07.40.45:350][222]LogAudio: Display: Audio Device (ID: 19) registered with world 'Forest'.
+[2024.09.10-07.40.45:351][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.09.10-07.40.45:420][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.40.45:421][222]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.40.45:443][222]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.40.45
+[2024.09.10-07.40.45:444][222]LogWorld: Bringing up level for play took: 0.023216
+[2024.09.10-07.40.45:447][222]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.09.10-07.40.45:484][222]PIE: Server logged in
+[2024.09.10-07.40.45:487][222]PIE: Play in editor total start time 0.471 seconds.
+[2024.09.10-07.41.00:312][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.41.00:312][700]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.41.00:312][700]LogSlate: Window 'ExtinctionRebel Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.09.10-07.41.00:325][700]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.41.00:326][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.41.00:326][700]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.41.00:326][700]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.41.00:330][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.41.00:337][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.41.00:357][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.09.10-07.41.00:358][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.09.10-07.41.00:360][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.09.10-07.41.00:369][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.09.10-07.41.00:457][701]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.09.10-07.41.42:424][283]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.41.42:425][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.41.42:539][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.09.10-07.42.03:519][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.42.03:544][346]LogPlayLevel: [PlayLevel] Compiling AB_Murdock before play...
+[2024.09.10-07.42.03:548][346]LogPlayLevel: [PlayLevel]   Compiling BP_characterThirdPersonEdited as a dependent...
+[2024.09.10-07.42.03:715][346]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2024.09.10-07.42.03:715][346]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.09.10-07.42.03:830][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.09.10-07.42.03:834][346]LogPlayLevel: PlayLevel: Blueprint regeneration took 295 ms (4 blueprints)
+[2024.09.10-07.42.03:834][346]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.42.03:888][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053960s)
+[2024.09.10-07.42.03:888][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.054035s)
+[2024.09.10-07.42.03:908][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.09.10-07.42.03:910][346]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.42.03:911][346]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2024.09.10-07.42.03:941][346]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.42.03:941][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.42.03:941][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.42.03:941][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.42.03:941][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.42.03:941][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.42.03:943][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.42.03:967][346]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.42.03:967][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.42.03:967][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.42.03:967][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.42.03:968][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.09.10-07.42.03:968][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.09.10-07.42.03:970][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.09.10-07.42.03:970][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.09.10-07.42.03:970][346]LogInit: FAudioDevice initialized with ID 20.
+[2024.09.10-07.42.03:970][346]LogAudio: Display: Audio Device (ID: 20) registered with world 'Forest'.
+[2024.09.10-07.42.03:970][346]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.09.10-07.42.04:035][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.42.04:035][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.42.04:054][346]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.42.04
+[2024.09.10-07.42.04:055][346]LogWorld: Bringing up level for play took: 0.019464
+[2024.09.10-07.42.04:057][346]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.09.10-07.42.04:092][346]PIE: Server logged in
+[2024.09.10-07.42.04:093][346]PIE: Play in editor total start time 0.561 seconds.
+[2024.09.10-07.42.16:010][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.42.16:010][651]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.42.16:011][651]LogSlate: Window 'ExtinctionRebel Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.09.10-07.42.16:080][651]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.42.16:081][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.42.16:082][651]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.42.16:082][651]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.42.16:085][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.42.16:093][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.42.16:115][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.09.10-07.42.16:115][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.09.10-07.42.16:117][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.09.10-07.42.16:129][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.09.10-07.42.16:225][652]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.09.10-07.49.11:800][821]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\GitHub\Team14\ExtinctionRebel\Content\mINE\BP_characterThirdPersonEdited.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2024.09.10-07.49.50:079][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.49.50:139][ 94]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.49.50:230][ 94]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.10-07.49.50:230][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.49.50:276][ 94]LogSavePackage: Moving output files for package: /Game/mINE/BP_characterThirdPersonEdited
+[2024.09.10-07.49.50:277][ 94]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEditedE9A31D3347E235AD66F4D49452DB4448.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset'
+[2024.09.10-07.49.50:286][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.552 ms (total: 1.99 sec)
+[2024.09.10-07.49.50:338][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.49.50:338][ 94]LogContentValidation: Enabled validators:
+[2024.09.10-07.49.50:338][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.49.50:338][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.49.50:338][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.49.50:338][ 94]LogContentValidation: Display: Validating asset /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.10-07.49.50:338][ 94]AssetCheck: /Game/mINE/BP_characterThirdPersonEdited Validating asset
+[2024.09.10-07.50.53:679][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.09.10-07.50.53:686][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Forest' took 0.030
+[2024.09.10-07.50.53:686][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.09.10-07.50.53:809][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.09.10-07.50.53:809][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.09.10-07.50.53:833][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.09.10-07.50.53:834][571]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_ThirdPersonCharacter_Auto58FDC723649D857E8E73D158C3C91CA08.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.09.10-07.50.53:835][571]LogFileHelpers: Auto-saving content packages took 0.149
+[2024.09.10-07.51.24:777][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.09.10-07.51.26:612][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.51.26:672][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.51.26:742][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited]
+[2024.09.10-07.51.26:742][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.51.26:787][ 55]LogSavePackage: Moving output files for package: /Game/mINE/BP_characterThirdPersonEdited
+[2024.09.10-07.51.26:789][ 55]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEditedFC28CB94487F74156BD43AAB12247A75.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset'
+[2024.09.10-07.51.26:800][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.647 ms (total: 2.17 sec)
+[2024.09.10-07.51.26:853][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.51.26:853][ 55]LogContentValidation: Enabled validators:
+[2024.09.10-07.51.26:853][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.51.26:853][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.51.26:853][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.51.26:853][ 55]LogContentValidation: Display: Validating asset /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.10-07.51.26:853][ 55]AssetCheck: /Game/mINE/BP_characterThirdPersonEdited Validating asset
+[2024.09.10-07.51.28:629][162]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.10-07.51.28:643][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.10-07.51.28:644][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.51.28:761][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117196s)
+[2024.09.10-07.51.28:761][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Forest.Forest to /Game/Maps/UEDPIE_0_Forest.Forest (0.117251s)
+[2024.09.10-07.51.28:787][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.09.10-07.51.28:796][162]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.10-07.51.28:797][162]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2024.09.10-07.51.28:827][162]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.10-07.51.28:827][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.10-07.51.28:827][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.10-07.51.28:827][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.10-07.51.28:827][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.10-07.51.28:827][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.10-07.51.28:829][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.10-07.51.28:850][162]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.09.10-07.51.28:850][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.10-07.51.28:850][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.10-07.51.28:850][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.10-07.51.28:851][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.09.10-07.51.28:851][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.09.10-07.51.28:853][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.09.10-07.51.28:853][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.09.10-07.51.28:853][162]LogInit: FAudioDevice initialized with ID 21.
+[2024.09.10-07.51.28:853][162]LogAudio: Display: Audio Device (ID: 21) registered with world 'Forest'.
+[2024.09.10-07.51.28:853][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.09.10-07.51.28:856][162]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.10-07.51.28:881][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Forest.Forest up for play (max tick rate 0) at 2024.09.10-17.51.28
+[2024.09.10-07.51.28:882][162]LogWorld: Bringing up level for play took: 0.025935
+[2024.09.10-07.51.28:885][162]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.09.10-07.51.28:918][162]PIE: Server logged in
+[2024.09.10-07.51.28:919][162]PIE: Play in editor total start time 0.281 seconds.
+[2024.09.10-07.51.42:875][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.51.42:875][415]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Forest
+[2024.09.10-07.51.42:875][415]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2024.09.10-07.51.42:876][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.51.42:877][415]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.10-07.51.42:877][415]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.10-07.51.42:960][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.10-07.51.42:969][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.10-07.51.42:991][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.10-07.51.42:992][415]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.09.10-07.51.42:992][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.09.10-07.51.42:994][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.09.10-07.51.42:999][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.10-07.51.43:004][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.09.10-07.51.43:109][416]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.09.10-07.51.53:937][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.51.53:992][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/mINE/BP_characterThirdPersonEdited] ([2] browsable assets)...
+[2024.09.10-07.51.53:992][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/mINE/BP_characterThirdPersonEdited]
+[2024.09.10-07.51.54:035][462]LogSavePackage: Moving output files for package: /Game/mINE/BP_characterThirdPersonEdited
+[2024.09.10-07.51.54:036][462]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_characterThirdPersonEdited14CE629E4304A5FD0F15E98EF2EFBDC7.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset'
+[2024.09.10-07.51.54:045][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.802 ms (total: 2.28 sec)
+[2024.09.10-07.51.54:104][462]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.51.54:104][462]LogContentValidation: Enabled validators:
+[2024.09.10-07.51.54:104][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.51.54:104][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.51.54:104][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.51.54:104][462]LogContentValidation: Display: Validating asset /Game/mINE/BP_characterThirdPersonEdited.BP_characterThirdPersonEdited
+[2024.09.10-07.51.54:105][462]AssetCheck: /Game/mINE/BP_characterThirdPersonEdited Validating asset
+[2024.09.10-07.52.15:116][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.09.10-07.52.15:122][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.10-07.52.15:172][421]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.09.10-07.52.15:172][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.09.10-07.52.15:198][421]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.09.10-07.52.15:199][421]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Saved/BP_ThirdPersonCharacterE5C8E056440C84902F7A2389AEFC287F.tmp' to '../../../../../../Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.09.10-07.52.15:208][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.934 ms (total: 2.37 sec)
+[2024.09.10-07.52.15:271][421]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.10-07.52.15:271][421]LogContentValidation: Enabled validators:
+[2024.09.10-07.52.15:271][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.10-07.52.15:271][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.10-07.52.15:271][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.10-07.52.15:271][421]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.09.10-07.52.15:272][421]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset

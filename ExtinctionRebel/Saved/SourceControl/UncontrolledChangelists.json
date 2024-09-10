@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/MainMenu.uasset",
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/MainMenuMap.umap",
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/MenuGameMode.uasset",
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/pngtree-in-the-style-of-unreal-engine-5-picture-image_2659661.uasset",
 				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
 				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/AI/BP_Worker.uasset",
 				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/MI_Grass_Clumps_rbojr_2K.uasset",

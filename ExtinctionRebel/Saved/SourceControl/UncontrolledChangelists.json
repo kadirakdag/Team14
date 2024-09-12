@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/Montage_Kick.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/BT_Enemy_Base.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Foilage/SMF_Tree4.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Foilage/SMF_Tree3.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Foilage/SMF_Tree2.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Foilage/SMF_Tree1.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Foilage/SMF_Tree.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/BlackAlder/Materials/SimpleWind/MI_BlackAlder_Decoration.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/BlackAlder/Materials/SimpleWind/MI_BlackAlder_TwoSided.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/BlackAlder/Materials/SimpleWind/MI_BlackAlder_Tileable.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AF/Z84V05RV11EOT7XR3RZ1MH.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/34/A3K1KIOY1L9AZLZR8O3RP6.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/BTT_Focus_Target.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/Tasks/BTT_Focus_Target.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/Tasks/BTT_Clear_Focus.uasset"
+			]
+		}
+	]
+}

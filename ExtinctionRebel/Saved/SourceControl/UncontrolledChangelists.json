@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Bullet/M_BulletElement0.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Bullet/M_BulletElement1.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Bullet/bullet.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Bullet/SM_Bullet.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Bullet/SM_Shell.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Bullet/M_BulletShell.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Niagara/Bullet/MS_Shell.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/Murdock_Skeleton.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/Murdock.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Niagara/Bullet/NS_Shell.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/Niagara/Bullet/NS_ShotFired.uasset",
+				"C:/Users/Debora/Documents/GitHub/Team14/ExtinctionRebel/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		}
+	]
+}

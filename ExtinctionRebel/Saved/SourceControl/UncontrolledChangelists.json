@@ -21,9 +21,13 @@
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AF/Z84V05RV11EOT7XR3RZ1MH.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/34/A3K1KIOY1L9AZLZR8O3RP6.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset",
-				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/BTT_Focus_Target.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/Tasks/BTT_Focus_Target.uasset",
-				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/Tasks/BTT_Clear_Focus.uasset"
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/Tasks/BTT_Clear_Focus.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/Montage_StandingMeleeAttackDownward_UE_Montage.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/StandingMeleeAttackDownward_UE.uasset",
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/BTT_Focus_Target.uasset"
 			]
 		}
 	]

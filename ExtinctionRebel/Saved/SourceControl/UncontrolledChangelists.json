@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/Player_HUD.uasset",
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset",
+				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/Bullet-removebg-preview.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Maps/Forest.umap",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/mINE/BP_characterThirdPersonEdited.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/Enemies/AI/AIC_Enemy_Base.uasset",

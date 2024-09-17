@@ -1,0 +1,6 @@
+2024/09/17-21:02:49.366 5cec Creating DB C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/09/17-21:02:49.373 5cec Reusing MANIFEST C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/17-21:04:13.028 69d4 Level-0 table #5: started
+2024/09/17-21:04:13.036 69d4 Level-0 table #5: 1167 bytes OK
+2024/09/17-21:04:13.037 69d4 Delete type=0 #3
+2024/09/17-21:04:13.037 69d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

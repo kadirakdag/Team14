@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/FOREST_OCEAN.umap",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/FOREST_OCEAN_sharedassets/Layer_Slope_LayerInfo.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Megascans/3D_Assets/Chopped_Wood_Pile_rlCaz/S_Chopped_Wood_Pile_rlCaz_lod3_Var1.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/MenuGameMode.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Sounds/cinematic-sport-action-trailer-infinite-echoes-185198.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Sounds/HEROICCC_chosic_com_.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Sounds/tsunami-scary-dark-thriller-action-trailer-intro-216311.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/MainMenuMap.umap",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/MainMenu.uasset",
+				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/UI/rebel.uasset",
 				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/Props/Jerrycan.uasset",
 				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/Props/Jerry_Can_Material.uasset",
 				"C:/Users/User/Documents/GitHub/Team14/ExtinctionRebel/Content/GameController/BP_GameContoller.uasset",
@@ -547,10 +557,7 @@
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/GrassLandscape/Materials/defaultLandscape/gl1_baseGround_VII.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/GrassLandscape/Materials/defaultLandscape/MA_Grass_I_LayerGround.uasset",
 				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/GrassLandscape/Materials/defaultLandscape/MI_Grass_I_LayerGround.uasset",
-				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Y2/B31M9RNYRC5K4WMZH0JB1T.uasset",
-				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/FOREST_OCEAN.umap",
-				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Maps/FOREST_OCEAN_sharedassets/Layer_Slope_LayerInfo.uasset",
-				"C:/Users/Owner/Documents/GitHub/Team14/ExtinctionRebel/Content/Megascans/3D_Assets/Chopped_Wood_Pile_rlCaz/S_Chopped_Wood_Pile_rlCaz_lod3_Var1.uasset"
+				"C:/Users/kadir/GitHub/Team14/ExtinctionRebel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Y2/B31M9RNYRC5K4WMZH0JB1T.uasset"
 			]
 		}
 	]

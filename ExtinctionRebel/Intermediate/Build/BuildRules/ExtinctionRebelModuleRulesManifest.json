@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Debora\\Documents\\GitHub\\Team14\\ExtinctionRebel\\Intermediate\\Source\\ExtinctionRebel.Build.cs",
+		"C:\\Users\\Debora\\Documents\\GitHub\\Team14\\ExtinctionRebel\\Intermediate\\Source\\ExtinctionRebel.Target.cs",
+		"C:\\Users\\Debora\\Documents\\GitHub\\Team14\\ExtinctionRebel\\Intermediate\\Source\\ExtinctionRebelClient.Target.cs",
+		"C:\\Users\\Debora\\Documents\\GitHub\\Team14\\ExtinctionRebel\\Intermediate\\Source\\ExtinctionRebelEditor.Target.cs",
+		"C:\\Users\\Debora\\Documents\\GitHub\\Team14\\ExtinctionRebel\\Intermediate\\Source\\ExtinctionRebelServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
